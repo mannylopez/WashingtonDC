@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Garmin Connect"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1"
+  xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <link href="connect.garmin.com">
+      <text>Garmin Connect</text>
+    </link>
+    <time>2015-11-02T14:08:47.000Z</time>
+  </metadata>
+  <trk>
+    <name>Washington Running</name>
+    <trkseg>
+      <trkpt lon="-77.03458593226969" lat="38.914237059652805">
+        <ele>28.399999618530273</ele>
+        <time>2015-11-02T14:08:59.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03450990840793" lat="38.91430227085948">
+        <ele>28.600000381469727</ele>
+        <time>2015-11-02T14:09:03.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03456313349307" lat="38.914332278072834">
+        <ele>28.799999237060547</ele>
+        <time>2015-11-02T14:09:09.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03463085927069" lat="38.914271676912904">
+        <ele>28.600000381469727</ele>
+        <time>2015-11-02T14:09:19.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03462264500558" lat="38.914266312494874">
+        <ele>28.600000381469727</ele>
+        <time>2015-11-02T14:09:22.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03455600887537" lat="38.91423437744379">
+        <ele>28.399999618530273</ele>
+        <time>2015-11-02T14:09:46.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03414135612547" lat="38.9138435292989">
+        <ele>29.0</ele>
+        <time>2015-11-02T14:09:59.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03386064618826" lat="38.913782173767686">
+        <ele>29.0</ele>
+        <time>2015-11-02T14:10:17.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03195166774094" lat="38.912607030943036">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:16:43.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03184924088418" lat="38.91242112033069">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:16:52.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03173843212426" lat="38.912346605211496">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:17:04.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03197538852692" lat="38.912465209141374">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:17:17.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03217010013759" lat="38.91246177256107">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:17:30.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03239490278065" lat="38.91238382086158">
+        <ele>30.600000381469727</ele>
+        <time>2015-11-02T14:17:42.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03247520141304" lat="38.91243050806224">
+        <ele>30.200000762939453</ele>
+        <time>2015-11-02T14:17:45.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03259816393256" lat="38.912498066201806">
+        <ele>30.0</ele>
+        <time>2015-11-02T14:17:52.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03264510259032" lat="38.91268691048026">
+        <ele>30.0</ele>
+        <time>2015-11-02T14:18:09.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03259439207613" lat="38.912875754758716">
+        <ele>30.0</ele>
+        <time>2015-11-02T14:18:19.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03261367045343" lat="38.9133564569056">
+        <ele>30.600000381469727</ele>
+        <time>2015-11-02T14:18:58.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03248115256429" lat="38.913462990894914">
+        <ele>31.0</ele>
+        <time>2015-11-02T14:19:34.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03266823664308" lat="38.91351705417037">
+        <ele>30.399999618530273</ele>
+        <time>2015-11-02T14:20:41.000Z</time>
+      </trkpt>
+      <trkpt lon="-77.03250738792121" lat="38.91282504424453">
+        <ele>30.0</ele>
+        <time>2015-11-02T14:22:58.000Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
